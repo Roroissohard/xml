@@ -1,0 +1,25 @@
+[
+{
+    "fullName" : "Alex Johnson",
+    "role" : "Event Coordinator",
+    "school" : "Central High School",
+    "idNumber" : "104",
+    "birthDate" : "2007-03-12",
+    "graduationYear" : "2025"
+},
+{
+    "eventsPlanned" : "12",
+    "fundraisers" : "5",
+    "assemblies" : "3"
+},
+{
+    "club" : "Student Council",
+    "club" : "National Honor Society",
+    "club" : "Art Club"
+},
+{
+    "award" : "Leardership Award",
+    "award" : "Service Award",
+    "award" : "Student of the Month"
+}
+]
